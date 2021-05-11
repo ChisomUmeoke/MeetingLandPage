@@ -41,7 +41,7 @@ h1{
     border:none;
     padding:0.58rem 1.5rem 0.58rem 1.5rem ;
     border-radius:30px;
-    margin:2em 0 0 10em;
+    margin:2em 0.45em 0 10em;
 }
 
 .purplebtn{
@@ -55,7 +55,7 @@ h1{
 .drop{
   border-left: 1px solid rgb(193, 196, 193);
   height:4rem;
-  margin:3em 0 0 41em;
+  margin:3em 0 0 42em;
 }
   
 
@@ -67,7 +67,7 @@ h1{
    line-height: 1.6em;
    text-align: center;
    width: 2%;
-   margin:0 0 5em 40.2em;
+   margin:0 0 5em 41.2em;
 }  
   
   .round1{
@@ -78,7 +78,7 @@ h1{
      line-height: 1.6rem;
      text-align: center;
      width: 2%;
-     margin:0 0 -1em 40.2em;
+     margin:0 0 -1em 41.2em;
      position:relative;
 
   }
@@ -123,7 +123,7 @@ h4{
 .drop1{
     border-left: 1px solid rgb(193, 196, 193);
     height:3rem;
-    margin:3em 0 0 41em;
+    margin:3em 0 0 42em;
   }
 
 .footer{
